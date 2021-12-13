@@ -1,2 +1,2 @@
 # SPOJ
-Solutions of SPOJ problems
+Solutions of various problems in SPOJ
